@@ -1,0 +1,2 @@
+# Procfile
+web: java -jar target/todo-api-0.0.1-SNAPSHOT.jar --server.port=$PORT
